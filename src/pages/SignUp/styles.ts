@@ -59,6 +59,6 @@ export const AnimationContent = styled.div`
             &:hover {
                 opacity: 0.5;
             }
-        }  
+        }
     }
 `;
